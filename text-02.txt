@@ -1,0 +1,1 @@
+This is the `text-02.txt` file.
